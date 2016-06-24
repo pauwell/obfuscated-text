@@ -6,7 +6,7 @@ Converts a string of characters into an ascii-art.
 		  2016
 __________________________________________________________________
 
-# Font-storage:
+Font-storage:
 
 const unsigned char letter_a[5] = { 0xF9F99 };
 
