@@ -16,4 +16,13 @@ const unsigned char letter_a[5] = { 0xF9F99 };
 	**** 	1111  	0xF
 	*  *  	1001  	0x9
 	*  *  	1001  	0x9
+	
+__________________________________________________________________
+
+Compiled with:
+gcc version 4.4.1 mingw32
+
+gcc -o C:/CCode/out C:/CCode/main.c
+start C:/CCode/out.exe "Hello World" "C:/CCode/output.txt"
+
 		
