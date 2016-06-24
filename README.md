@@ -23,6 +23,7 @@ Compiled with:
 gcc version 4.4.1 mingw32
 
 gcc -o C:/CCode/out C:/CCode/main.c
+
 start C:/CCode/out.exe "Hello World" "C:/CCode/output.txt"
 
 		
