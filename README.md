@@ -1,5 +1,5 @@
 # obfuscated_string_art
-Converts a string of characters into an ascii-art.
+Converts a string of characters into ascii-art.
 
 	    ~ String to art ~
 	    - Paul Bernitz -
