@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
 /* 
 		  ¶¶  ¶¶¶¶ ¶¶¶   ¶   ¶  ¶  ¶¶¶      ¶¶¶¶ ¶¶¶¶      ¶¶¶¶ ¶¶¶  ¶¶¶¶
 		 ¶      ¶  ¶  ¶  ¶   ¶¶ ¶ ¶           ¶  ¶  ¶      ¶  ¶ ¶  ¶   ¶ 
@@ -32,6 +28,9 @@
 		const unsigned char letter_a[5] = { 0xF9F99 };
 
 */
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 // Letters (all flipped horizontal).
 const unsigned int LETTERS[] = 
@@ -47,7 +46,7 @@ const unsigned int LETTERS[] =
 
 /*
 	Reads two arguments:
-	arg 1	->	String to convert.
+	arg 1	-> String to convert.
 	arg 2 	-> Path to output-textfile.
 
 */
