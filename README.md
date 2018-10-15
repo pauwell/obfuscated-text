@@ -1,4 +1,4 @@
-# obfuscated_string_art
+# obfuscated-text
 Converts a string of characters into ascii-art.
 
 	    ~ String to art ~
